@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+button {
+background-color: #555555;
+color: #fff;
+padding: 12px 30px;
+font-size: 18px;
+cursor: pointer;
+margin: 40vh 95vh;
+}
